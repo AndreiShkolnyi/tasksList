@@ -1,5 +1,6 @@
 {
-  "name": "counter",
+  "name": "tasks-list",
+  "homepage": "https://volodin32104.github.io/tasksList",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
